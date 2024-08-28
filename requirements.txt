@@ -1,4 +1,4 @@
-allure-pytest==2.13.5
-pytest==8.2.0
-selene==2.0.0rc9
-selenium==4.20.0
+allure-pytest==2.8.18
+pytest==6.0.1
+pytest-xdist==2.1.0
+requests==2.31.0
