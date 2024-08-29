@@ -1,0 +1,291 @@
+[ {
+  "uid" : "c2202583a235a5c6",
+  "name" : "test_get_few_sub_breed_random_images[5]",
+  "time" : {
+    "start" : 1724925291690,
+    "stop" : 1724925291690,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b7b945dcc2b9188f",
+  "name" : "test_get_random_breed_image[blood]",
+  "time" : {
+    "start" : 1724925291504,
+    "stop" : 1724925291504,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8bf170115d21dd40",
+  "name" : "test_get_random_breed_images[boxer]",
+  "time" : {
+    "start" : 1724925291593,
+    "stop" : 1724925291593,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "de7c2ebfea436a53",
+  "name" : "test_get_random_breed_images[shiba]",
+  "time" : {
+    "start" : 1724925291618,
+    "stop" : 1724925291618,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6dda90892af1247e",
+  "name" : "test_get_few_sub_breed_random_images[2]",
+  "time" : {
+    "start" : 1724925291658,
+    "stop" : 1724925291658,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cfffa92a20047169",
+  "name" : "test_get_few_sub_breed_random_images[8]",
+  "time" : {
+    "start" : 1724925291714,
+    "stop" : 1724925291714,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "16abe3a335d46a3",
+  "name" : "test_get_random_breed_images[whippet]",
+  "time" : {
+    "start" : 1724925291626,
+    "stop" : 1724925291626,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7a357748add9dcc5",
+  "name" : "test_get_random_breed_images[entlebucher]",
+  "time" : {
+    "start" : 1724925291601,
+    "stop" : 1724925291601,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dd5eb944dc8c3b14",
+  "name" : "test_get_breed_images[.MD]",
+  "time" : {
+    "start" : 1724925291560,
+    "stop" : 1724925291560,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe42c37b8ef7ecdf",
+  "name" : "test_get_breed_images[.exe]",
+  "time" : {
+    "start" : 1724925291569,
+    "stop" : 1724925291569,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c9d06e7df7a23744",
+  "name" : "test_get_random_breed_image[plott]",
+  "time" : {
+    "start" : 1724925291535,
+    "stop" : 1724925291535,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4730fe13206aebe5",
+  "name" : "test_get_few_sub_breed_random_images[6]",
+  "time" : {
+    "start" : 1724925291698,
+    "stop" : 1724925291698,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "85d57faed1a7685a",
+  "name" : "test_get_few_sub_breed_random_images[4]",
+  "time" : {
+    "start" : 1724925291682,
+    "stop" : 1724925291682,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "713e5631abc967",
+  "name" : "test_get_few_sub_breed_random_images[3]",
+  "time" : {
+    "start" : 1724925291669,
+    "stop" : 1724925291669,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "890cddfd0d22def8",
+  "name" : "test_get_few_sub_breed_random_images[1]",
+  "time" : {
+    "start" : 1724925291650,
+    "stop" : 1724925291650,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "14edb6ba1ca44bbe",
+  "name" : "test_get_breed_images[.txt]",
+  "time" : {
+    "start" : 1724925291577,
+    "stop" : 1724925291577,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cf2302a09d2c7893",
+  "name" : "test_get_random_breed_image[basset]",
+  "time" : {
+    "start" : 1724925291495,
+    "stop" : 1724925291495,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d88e7e523161a7f",
+  "name" : "test_get_random_breed_images[african]",
+  "time" : {
+    "start" : 1724925291585,
+    "stop" : 1724925291585,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cf6f267fa9dc2b17",
+  "name" : "test_get_random_breed_image[english]",
+  "time" : {
+    "start" : 1724925291519,
+    "stop" : 1724925291519,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "24a89c9adc493cc7",
+  "name" : "test_get_random_breed_image[ibizan]",
+  "time" : {
+    "start" : 1724925291527,
+    "stop" : 1724925291527,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7d3b09c5c930d792",
+  "name" : "test_get_random_breed_images[dvornyaga]",
+  "time" : {
+    "start" : 1724925291642,
+    "stop" : 1724925291642,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "540e08069648f19a",
+  "name" : "test_get_breed_images[.md]",
+  "time" : {
+    "start" : 1724925291552,
+    "stop" : 1724925291552,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1b5d67b55e3c2e14",
+  "name" : "test_get_random_breed_image[walker]",
+  "time" : {
+    "start" : 1724925291544,
+    "stop" : 1724925291544,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d3898dafa3675f2b",
+  "name" : "test_get_few_sub_breed_random_images[7]",
+  "time" : {
+    "start" : 1724925291706,
+    "stop" : 1724925291706,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "29c8edc766da45e",
+  "name" : "test_get_random_breed_images[spaniel]",
+  "time" : {
+    "start" : 1724925291634,
+    "stop" : 1724925291634,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b1d254c4d60524a9",
+  "name" : "test_get_random_breed_images[elkhound]",
+  "time" : {
+    "start" : 1724925291610,
+    "stop" : 1724925291610,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e302b0932b450700",
+  "name" : "test_get_few_sub_breed_random_images[9]",
+  "time" : {
+    "start" : 1724925291722,
+    "stop" : 1724925291722,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e19ce2a82e63e703",
+  "name" : "test_get_random_breed_image[afghan]",
+  "time" : {
+    "start" : 1724925291485,
+    "stop" : 1724925291485,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db69cbd315afc287",
+  "name" : "test_random_dog",
+  "time" : {
+    "start" : 1724925291458,
+    "stop" : 1724925291458,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

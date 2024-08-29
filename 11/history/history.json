@@ -1,0 +1,611 @@
+{
+  "e7908be674c03508200a864b767c7f86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cef9ffe3f54376cf",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/cef9ffe3f54376cf",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[ibizan]>>)",
+      "time" : {
+        "start" : 1724924093709,
+        "stop" : 1724924093709,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ab2296a80db6cc07bdd0185274f58d86" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a22a22a04a53c3e4",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/a22a22a04a53c3e4",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[english]>>)",
+      "time" : {
+        "start" : 1724924093708,
+        "stop" : 1724924093708,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a80a6dc0109a3c679d40550a741bb37e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aeedf9e0e82e2d00",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/aeedf9e0e82e2d00",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[7]>>)",
+      "time" : {
+        "start" : 1724924093733,
+        "stop" : 1724924093733,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7d3871e88861787c20320787976854e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae10bfa2c5662836",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/ae10bfa2c5662836",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[9]>>)",
+      "time" : {
+        "start" : 1724924093735,
+        "stop" : 1724924093735,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3a2fbcdfcae909c708a38d1ed62baf69" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e50ad9febc102401",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/e50ad9febc102401",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_random_dog>>)",
+      "time" : {
+        "start" : 1724924093701,
+        "stop" : 1724924093701,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ec1af4c5c8dfa36329b69e6939f5f85f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e2468579437dabe",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/7e2468579437dabe",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[6]>>)",
+      "time" : {
+        "start" : 1724924093732,
+        "stop" : 1724924093732,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3167ac830021b8840f0ad84b73b17d2f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "245b509eb5b6922",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/245b509eb5b6922",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.txt]>>)",
+      "time" : {
+        "start" : 1724924093716,
+        "stop" : 1724924093716,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5a6881d868ad8321c7128afedff633a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82d42d311ba223f9",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/82d42d311ba223f9",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[whippet]>>)",
+      "time" : {
+        "start" : 1724924093723,
+        "stop" : 1724924093723,
+        "duration" : 0
+      }
+    } ]
+  },
+  "47dd25fc020cd0f23137f8336dd338d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "186916c2f29739af",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/186916c2f29739af",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[1]>>)",
+      "time" : {
+        "start" : 1724924093726,
+        "stop" : 1724924093726,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b379e2c4df0e62dc8f52e37c104c822b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8aa01714b7d4317b",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/8aa01714b7d4317b",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[african]>>)",
+      "time" : {
+        "start" : 1724924093717,
+        "stop" : 1724924093717,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c079fc2593491e0218967e24e84c962f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25c31de4c703c432",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/25c31de4c703c432",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[elkhound]>>)",
+      "time" : {
+        "start" : 1724924093721,
+        "stop" : 1724924093721,
+        "duration" : 0
+      }
+    } ]
+  },
+  "15a34a905636f537cdda4492fd7ac300" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54fece699b1c441c",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/54fece699b1c441c",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[spaniel]>>)",
+      "time" : {
+        "start" : 1724924093724,
+        "stop" : 1724924093724,
+        "duration" : 0
+      }
+    } ]
+  },
+  "efb956e925b3254510acd1de716d54de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c07ddce2fba33229",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/c07ddce2fba33229",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[afghan]>>)",
+      "time" : {
+        "start" : 1724924093704,
+        "stop" : 1724924093704,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c81ff832d1669e61bd4255b5773d4189" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5a3bedbe67c1dd4",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/a5a3bedbe67c1dd4",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[dvornyaga]>>)",
+      "time" : {
+        "start" : 1724924093725,
+        "stop" : 1724924093725,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1dc1359f6b2d17f9a0e926d7cfe2c8b7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a5b0f03c05e8878",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/6a5b0f03c05e8878",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[entlebucher]>>)",
+      "time" : {
+        "start" : 1724924093719,
+        "stop" : 1724924093719,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a7603ede824bdfe06e525757aacff9ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "477423d54c57a724",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/477423d54c57a724",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[5]>>)",
+      "time" : {
+        "start" : 1724924093731,
+        "stop" : 1724924093731,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f8272c81813b56c5a1120c3b343e8cb3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3034ef23eedd9c8d",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/3034ef23eedd9c8d",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[shiba]>>)",
+      "time" : {
+        "start" : 1724924093722,
+        "stop" : 1724924093722,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1f9215915548e5be9ee26be42ebdb5d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a71a15a67a25d06",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/4a71a15a67a25d06",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[walker]>>)",
+      "time" : {
+        "start" : 1724924093711,
+        "stop" : 1724924093711,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fd56c687632fb3cca0db1e5f05cca9bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e86930a3745f2ae5",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/e86930a3745f2ae5",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.exe]>>)",
+      "time" : {
+        "start" : 1724924093715,
+        "stop" : 1724924093715,
+        "duration" : 0
+      }
+    } ]
+  },
+  "83dc1fc91bb9af13d9c4a877be4cd799" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd1797d680c2763f",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/bd1797d680c2763f",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.md]>>)",
+      "time" : {
+        "start" : 1724924093713,
+        "stop" : 1724924093713,
+        "duration" : 0
+      }
+    } ]
+  },
+  "58f981f33e96773deadb8c5bbffcccdf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24d7c00ab6291c7",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/24d7c00ab6291c7",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[plott]>>)",
+      "time" : {
+        "start" : 1724924093710,
+        "stop" : 1724924093710,
+        "duration" : 0
+      }
+    } ]
+  },
+  "21c54835b5e077f53f435500445e0191" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3746a9f6529c98f8",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/3746a9f6529c98f8",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[3]>>)",
+      "time" : {
+        "start" : 1724924093729,
+        "stop" : 1724924093729,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a3ec03b79503f3487580771b713d4d34" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e07155320ce6acb8",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/e07155320ce6acb8",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[8]>>)",
+      "time" : {
+        "start" : 1724924093734,
+        "stop" : 1724924093734,
+        "duration" : 0
+      }
+    } ]
+  },
+  "261efe07a74ea3430568d9c7f4bb2859" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a50f6accdbd5cebc",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/a50f6accdbd5cebc",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[2]>>)",
+      "time" : {
+        "start" : 1724924093727,
+        "stop" : 1724924093727,
+        "duration" : 0
+      }
+    } ]
+  },
+  "32154e6702b0b1fcc01682bb58357656" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3abd58224659ca5",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/f3abd58224659ca5",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[blood]>>)",
+      "time" : {
+        "start" : 1724924093707,
+        "stop" : 1724924093707,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d4e06450a8d4a23895675938065ff0c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4268c7b08a9e2db7",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/4268c7b08a9e2db7",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[4]>>)",
+      "time" : {
+        "start" : 1724924093730,
+        "stop" : 1724924093730,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6c782ab8f90fefcc64105a736a0cf730" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b96604ffebf8d02",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/7b96604ffebf8d02",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.MD]>>)",
+      "time" : {
+        "start" : 1724924093714,
+        "stop" : 1724924093714,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fc109b9f6a5258f5d5cde7a9b6869826" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3be53b6da25bb058",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/3be53b6da25bb058",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[basset]>>)",
+      "time" : {
+        "start" : 1724924093705,
+        "stop" : 1724924093705,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4fbdeadcedefd07473f9d4e28af1462f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "923db91206b018e4",
+      "reportUrl" : "https://Annpetl.github.io/saucedemo/10//#testresult/923db91206b018e4",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[boxer]>>)",
+      "time" : {
+        "start" : 1724924093718,
+        "stop" : 1724924093718,
+        "duration" : 0
+      }
+    } ]
+  }
+}
