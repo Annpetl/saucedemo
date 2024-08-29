@@ -1,0 +1,390 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "AttributeError: 'str' object has no attribute 'iter_parents'",
+      "children" : [ {
+        "name" : "test_random_dog",
+        "uid" : "b5b78653dc92689b",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295498,
+          "stop" : 1724925295498,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[afghan]",
+        "uid" : "7c21ca4915fdfcef",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295526,
+          "stop" : 1724925295526,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[basset]",
+        "uid" : "df0f141751200bfe",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295534,
+          "stop" : 1724925295534,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[blood]",
+        "uid" : "306718d9520ed0f4",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295542,
+          "stop" : 1724925295542,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[english]",
+        "uid" : "f90ba11aa5c0b72f",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295558,
+          "stop" : 1724925295558,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[ibizan]",
+        "uid" : "24a34af797090fb4",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295566,
+          "stop" : 1724925295566,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[plott]",
+        "uid" : "536241aa1a23958d",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295574,
+          "stop" : 1724925295574,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_image[walker]",
+        "uid" : "821c12d4c73d6445",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295582,
+          "stop" : 1724925295582,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_breed_images[.md]",
+        "uid" : "95d9d0583e04aa8d",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295591,
+          "stop" : 1724925295591,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_breed_images[.MD]",
+        "uid" : "c1a9e86d1dd90256",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295599,
+          "stop" : 1724925295599,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_breed_images[.exe]",
+        "uid" : "636de3e9b1bf9b0d",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295607,
+          "stop" : 1724925295607,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_breed_images[.txt]",
+        "uid" : "c696255b53003227",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295615,
+          "stop" : 1724925295615,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[african]",
+        "uid" : "a7ff98d114b7657e",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295623,
+          "stop" : 1724925295623,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[boxer]",
+        "uid" : "f0cde999af214d8a",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295631,
+          "stop" : 1724925295631,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[entlebucher]",
+        "uid" : "5cd63b90504420b3",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295639,
+          "stop" : 1724925295639,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[elkhound]",
+        "uid" : "eb37ba3b60094343",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295647,
+          "stop" : 1724925295648,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[shiba]",
+        "uid" : "c4c2dd200735d601",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295656,
+          "stop" : 1724925295656,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[whippet]",
+        "uid" : "f47f44d968ced3d4",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295664,
+          "stop" : 1724925295664,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[spaniel]",
+        "uid" : "e51ebc0687c47008",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295672,
+          "stop" : 1724925295672,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_random_breed_images[dvornyaga]",
+        "uid" : "69f9f2df1560ea97",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295680,
+          "stop" : 1724925295680,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[1]",
+        "uid" : "9a6f37dc57a4090",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295688,
+          "stop" : 1724925295688,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[2]",
+        "uid" : "330c5379650c158e",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295696,
+          "stop" : 1724925295696,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[3]",
+        "uid" : "dd21f3a471b62e11",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295704,
+          "stop" : 1724925295704,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[4]",
+        "uid" : "4cd2a30ba5a65750",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295712,
+          "stop" : 1724925295712,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[5]",
+        "uid" : "f1700f6b3f865dae",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295721,
+          "stop" : 1724925295721,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[6]",
+        "uid" : "937b2a4af2cbd13d",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295729,
+          "stop" : 1724925295729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[7]",
+        "uid" : "8d808020f9864496",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295737,
+          "stop" : 1724925295737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[8]",
+        "uid" : "15d9e1f18c4cf186",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295745,
+          "stop" : 1724925295745,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_few_sub_breed_random_images[9]",
+        "uid" : "e83a76524b2acd26",
+        "parentUid" : "0871b4ff1505358d6a8ccc011e961d8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724925295753,
+          "stop" : 1724925295753,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0871b4ff1505358d6a8ccc011e961d8a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

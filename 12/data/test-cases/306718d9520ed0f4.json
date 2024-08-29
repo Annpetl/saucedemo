@@ -1,0 +1,53 @@
+{
+  "uid" : "306718d9520ed0f4",
+  "name" : "test_get_random_breed_image[blood]",
+  "time" : {
+    "start" : 1724925295542,
+    "stop" : 1724925295542,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'str' object has no attribute 'iter_parents'",
+  "statusTrace" : "self = <allure_pytest.listener.AllureListener object at 0x7f92222586d0>\nitem = <Function test_get_random_breed_image[blood]>\n\n    @pytest.hookimpl(hookwrapper=True)\n    def pytest_runtest_setup(self, item):\n        if not self._cache.get(item.nodeid):\n            uuid = self._cache.push(item.nodeid)\n            test_result = TestResult(name=item.name, uuid=uuid, start=now(), stop=now())\n            self.allure_logger.schedule_test(uuid, test_result)\n    \n        yield\n    \n        uuid = self._cache.get(item.nodeid)\n        test_result = self.allure_logger.get_test(uuid)\n>       for fixturedef in _test_fixtures(item):\n\n/opt/hostedtoolcache/Python/3.11.9/x64/lib/python3.11/site-packages/allure_pytest/listener.py:79: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nitem = <Function test_get_random_breed_image[blood]>\n\n    def _test_fixtures(item):\n        fixturemanager = item.session._fixturemanager\n        fixturedefs = []\n    \n        if hasattr(item, \"fixturenames\"):\n            for name in item.fixturenames:\n>               fixturedef = fixturemanager.getfixturedefs(name, item.nodeid)\nE               AttributeError: 'str' object has no attribute 'iter_parents'\n\n/opt/hostedtoolcache/Python/3.11.9/x64/lib/python3.11/site-packages/allure_pytest/listener.py:279: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1435-440"
+  }, {
+    "name" : "thread",
+    "value" : "2361-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "306718d9520ed0f4.json",
+  "parameterValues" : [ ]
+}
