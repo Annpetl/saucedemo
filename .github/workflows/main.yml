@@ -19,7 +19,7 @@ jobs:
 
     - name: run tests
       run: |
-        python test_dog_api
+        pytest
 
     - name: get allure history
       uses: actions/checkout@v4
