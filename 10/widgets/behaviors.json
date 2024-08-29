@@ -1,0 +1,26 @@
+{
+  "total" : 9,
+  "items" : [ {
+    "uid" : "6d8d53eb5fd2518eb5844e571dbc6e07",
+    "name" : "List of dog images",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "a86c892fb0d4c8ebe4a8f08d30f55666",
+    "name" : "Random dog",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "e50ad9febc102401",
+  "name" : "test_random_dog",
+  "fullName" : "test_dog_api#test_random_dog",
+  "historyId" : "3a2fbcdfcae909c708a38d1ed62baf69",
+  "time" : {
+    "start" : 1724924093701,
+    "stop" : 1724924093701,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_random_dog>>)",
+  "statusTrace" : "file /home/runner/work/saucedemo/saucedemo/test_dog_api.py, line 5\n  @allure.feature('Random dog')\n  @allure.story('Полученсие фото лучайной собаки')\n  def test_random_dog(dog_api):\nE       fixture 'dog_api' not found\n>       available fixtures: cache, capfd, capfdbinary, caplog, capsys, capsysbinary, doctest_namespace, monkeypatch, pytestconfig, record_property, record_testsuite_property, record_xml_attribute, recwarn, testrun_uid, tmp_path, tmp_path_factory, tmpdir, tmpdir_factory, worker_id\n>       use 'pytest --fixtures [testpath]' for help on them.\n\n/home/runner/work/saucedemo/saucedemo/test_dog_api.py:5",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Random dog"
+  }, {
+    "name" : "story",
+    "value" : "Полученсие фото лучайной собаки"
+  }, {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1022-94"
+  }, {
+    "name" : "thread",
+    "value" : "2205-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e50ad9febc102401.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,65 @@
+{
+  "uid" : "e86930a3745f2ae5",
+  "name" : "test_get_breed_images[.exe]",
+  "fullName" : "test_dog_api#test_get_breed_images",
+  "historyId" : "fd56c687632fb3cca0db1e5f05cca9bc",
+  "time" : {
+    "start" : 1724924093715,
+    "stop" : 1724924093715,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.exe]>>)",
+  "statusTrace" : "file /home/runner/work/saucedemo/saucedemo/test_dog_api.py, line 33\n  @allure.feature('List of dog images')\n  @allure.story('Список всех фото собак списком содержит только изображения')\n  @pytest.mark.parametrize(\"file\", ['.md', '.MD', '.exe', '.txt'])\n  def test_get_breed_images(dog_api, file):\nE       fixture 'dog_api' not found\n>       available fixtures: cache, capfd, capfdbinary, caplog, capsys, capsysbinary, doctest_namespace, monkeypatch, pytestconfig, record_property, record_testsuite_property, record_xml_attribute, recwarn, testrun_uid, tmp_path, tmp_path_factory, tmpdir, tmpdir_factory, worker_id\n>       use 'pytest --fixtures [testpath]' for help on them.\n\n/home/runner/work/saucedemo/saucedemo/test_dog_api.py:33",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Список всех фото собак списком содержит только изображения"
+  }, {
+    "name" : "feature",
+    "value" : "List of dog images"
+  }, {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1022-94"
+  }, {
+    "name" : "thread",
+    "value" : "2205-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "file",
+    "value" : "'.exe'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e86930a3745f2ae5.json",
+  "parameterValues" : [ "'.exe'" ]
+}

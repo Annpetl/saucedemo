@@ -1,0 +1,65 @@
+{
+  "uid" : "82d42d311ba223f9",
+  "name" : "test_get_random_breed_images[whippet]",
+  "fullName" : "test_dog_api#test_get_random_breed_images",
+  "historyId" : "5a6881d868ad8321c7128afedff633a9",
+  "time" : {
+    "start" : 1724924093723,
+    "stop" : 1724924093723,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[whippet]>>)",
+  "statusTrace" : "file /home/runner/work/saucedemo/saucedemo/test_dog_api.py, line 43\n  @allure.feature('List of dog images')\n  @allure.story('Список фото определенных пород')\n  @pytest.mark.parametrize(\"breed\", [\n      \"african\",\n      \"boxer\",\n      \"entlebucher\",\n      \"elkhound\",\n      \"shiba\",\n      \"whippet\",\n      \"spaniel\",\n      \"dvornyaga\"\n  ])\n  def test_get_random_breed_images(dog_api, breed):\nE       fixture 'dog_api' not found\n>       available fixtures: cache, capfd, capfdbinary, caplog, capsys, capsysbinary, doctest_namespace, monkeypatch, pytestconfig, record_property, record_testsuite_property, record_xml_attribute, recwarn, testrun_uid, tmp_path, tmp_path_factory, tmpdir, tmpdir_factory, worker_id\n>       use 'pytest --fixtures [testpath]' for help on them.\n\n/home/runner/work/saucedemo/saucedemo/test_dog_api.py:43",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Список фото определенных пород"
+  }, {
+    "name" : "feature",
+    "value" : "List of dog images"
+  }, {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1022-94"
+  }, {
+    "name" : "thread",
+    "value" : "2205-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "breed",
+    "value" : "'whippet'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "82d42d311ba223f9.json",
+  "parameterValues" : [ "'whippet'" ]
+}

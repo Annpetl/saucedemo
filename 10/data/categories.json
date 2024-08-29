@@ -1,0 +1,502 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_random_dog>>)",
+      "children" : [ {
+        "name" : "test_random_dog",
+        "uid" : "e50ad9febc102401",
+        "parentUid" : "c27f44330c35d79ac0617438936094cc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093701,
+          "stop" : 1724924093701,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c27f44330c35d79ac0617438936094cc"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[afghan]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[afghan]",
+        "uid" : "c07ddce2fba33229",
+        "parentUid" : "231f178473ee222da646c504b5c9ea68",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093704,
+          "stop" : 1724924093704,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'afghan'" ]
+      } ],
+      "uid" : "231f178473ee222da646c504b5c9ea68"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[basset]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[basset]",
+        "uid" : "3be53b6da25bb058",
+        "parentUid" : "12079c9c0afb3db0312dbb33ce255302",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093705,
+          "stop" : 1724924093705,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'basset'" ]
+      } ],
+      "uid" : "12079c9c0afb3db0312dbb33ce255302"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[blood]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[blood]",
+        "uid" : "f3abd58224659ca5",
+        "parentUid" : "f63b4d9705eaff578a99c0bfae3e40d4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093707,
+          "stop" : 1724924093707,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'blood'" ]
+      } ],
+      "uid" : "f63b4d9705eaff578a99c0bfae3e40d4"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[english]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[english]",
+        "uid" : "a22a22a04a53c3e4",
+        "parentUid" : "402225ccccacca493d615b7aa24f0d33",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093708,
+          "stop" : 1724924093708,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'english'" ]
+      } ],
+      "uid" : "402225ccccacca493d615b7aa24f0d33"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[ibizan]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[ibizan]",
+        "uid" : "cef9ffe3f54376cf",
+        "parentUid" : "8daf315e4ae135d28b5b5aa5c204a601",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093709,
+          "stop" : 1724924093709,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'ibizan'" ]
+      } ],
+      "uid" : "8daf315e4ae135d28b5b5aa5c204a601"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[plott]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[plott]",
+        "uid" : "24d7c00ab6291c7",
+        "parentUid" : "ec5d6fb80fe28d3a534856c48848bef7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093710,
+          "stop" : 1724924093710,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'plott'" ]
+      } ],
+      "uid" : "ec5d6fb80fe28d3a534856c48848bef7"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_image[walker]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_image[walker]",
+        "uid" : "4a71a15a67a25d06",
+        "parentUid" : "77574f26068aa4f71d06a3aab11a550f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093711,
+          "stop" : 1724924093711,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'walker'" ]
+      } ],
+      "uid" : "77574f26068aa4f71d06a3aab11a550f"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.md]>>)",
+      "children" : [ {
+        "name" : "test_get_breed_images[.md]",
+        "uid" : "bd1797d680c2763f",
+        "parentUid" : "ec3df1b73cacd726cc551b74d8e1947c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093713,
+          "stop" : 1724924093713,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'.md'" ]
+      } ],
+      "uid" : "ec3df1b73cacd726cc551b74d8e1947c"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.MD]>>)",
+      "children" : [ {
+        "name" : "test_get_breed_images[.MD]",
+        "uid" : "7b96604ffebf8d02",
+        "parentUid" : "8efd8cbe9b52439972e0ad3b423dea9d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093714,
+          "stop" : 1724924093714,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'.MD'" ]
+      } ],
+      "uid" : "8efd8cbe9b52439972e0ad3b423dea9d"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.exe]>>)",
+      "children" : [ {
+        "name" : "test_get_breed_images[.exe]",
+        "uid" : "e86930a3745f2ae5",
+        "parentUid" : "7807a6664976596b482da297a9aadf1b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093715,
+          "stop" : 1724924093715,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'.exe'" ]
+      } ],
+      "uid" : "7807a6664976596b482da297a9aadf1b"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_breed_images[.txt]>>)",
+      "children" : [ {
+        "name" : "test_get_breed_images[.txt]",
+        "uid" : "245b509eb5b6922",
+        "parentUid" : "59d5d8063ce352f6525d68978454b2f3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093716,
+          "stop" : 1724924093716,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'.txt'" ]
+      } ],
+      "uid" : "59d5d8063ce352f6525d68978454b2f3"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[african]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[african]",
+        "uid" : "8aa01714b7d4317b",
+        "parentUid" : "ad3ac757e841b27694b14484d113d7e5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093717,
+          "stop" : 1724924093717,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'african'" ]
+      } ],
+      "uid" : "ad3ac757e841b27694b14484d113d7e5"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[boxer]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[boxer]",
+        "uid" : "923db91206b018e4",
+        "parentUid" : "818d8f59d8f9896abe924f8543105abb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093718,
+          "stop" : 1724924093718,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'boxer'" ]
+      } ],
+      "uid" : "818d8f59d8f9896abe924f8543105abb"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[entlebucher]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[entlebucher]",
+        "uid" : "6a5b0f03c05e8878",
+        "parentUid" : "9dbc1d0b365c92850ded0b0fe8a25ccf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093719,
+          "stop" : 1724924093719,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'entlebucher'" ]
+      } ],
+      "uid" : "9dbc1d0b365c92850ded0b0fe8a25ccf"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[elkhound]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[elkhound]",
+        "uid" : "25c31de4c703c432",
+        "parentUid" : "45176cc9032aaea7323bbc485334068b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093721,
+          "stop" : 1724924093721,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'elkhound'" ]
+      } ],
+      "uid" : "45176cc9032aaea7323bbc485334068b"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[shiba]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[shiba]",
+        "uid" : "3034ef23eedd9c8d",
+        "parentUid" : "6215c67e242b4ddf63fe1324ff48c6f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093722,
+          "stop" : 1724924093722,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'shiba'" ]
+      } ],
+      "uid" : "6215c67e242b4ddf63fe1324ff48c6f5"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[whippet]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[whippet]",
+        "uid" : "82d42d311ba223f9",
+        "parentUid" : "71409feb3375189df254eb9e61c7256f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093723,
+          "stop" : 1724924093723,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'whippet'" ]
+      } ],
+      "uid" : "71409feb3375189df254eb9e61c7256f"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[spaniel]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[spaniel]",
+        "uid" : "54fece699b1c441c",
+        "parentUid" : "c5bdb8c62a9ca428e216f0e2ebb00c8b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093724,
+          "stop" : 1724924093724,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'spaniel'" ]
+      } ],
+      "uid" : "c5bdb8c62a9ca428e216f0e2ebb00c8b"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_random_breed_images[dvornyaga]>>)",
+      "children" : [ {
+        "name" : "test_get_random_breed_images[dvornyaga]",
+        "uid" : "a5a3bedbe67c1dd4",
+        "parentUid" : "a135758a6d736c7aa02ce6b943afa4ef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093725,
+          "stop" : 1724924093725,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'dvornyaga'" ]
+      } ],
+      "uid" : "a135758a6d736c7aa02ce6b943afa4ef"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[1]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[1]",
+        "uid" : "186916c2f29739af",
+        "parentUid" : "cd2c2f0c33cea47404cb2d57dbcb5a31",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093726,
+          "stop" : 1724924093726,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1" ]
+      } ],
+      "uid" : "cd2c2f0c33cea47404cb2d57dbcb5a31"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[2]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[2]",
+        "uid" : "a50f6accdbd5cebc",
+        "parentUid" : "e50b491a00653b6f0ec6c1224e659728",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093727,
+          "stop" : 1724924093727,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2" ]
+      } ],
+      "uid" : "e50b491a00653b6f0ec6c1224e659728"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[3]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[3]",
+        "uid" : "3746a9f6529c98f8",
+        "parentUid" : "a0f3aa6d7728114e9c783ff2b65cf65e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093729,
+          "stop" : 1724924093729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3" ]
+      } ],
+      "uid" : "a0f3aa6d7728114e9c783ff2b65cf65e"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[4]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[4]",
+        "uid" : "4268c7b08a9e2db7",
+        "parentUid" : "3a56da82c86400ce722a6acd72ce5c20",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093730,
+          "stop" : 1724924093730,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "4" ]
+      } ],
+      "uid" : "3a56da82c86400ce722a6acd72ce5c20"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[5]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[5]",
+        "uid" : "477423d54c57a724",
+        "parentUid" : "01cab1efeed4fe24c4fcd33d8263b848",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093731,
+          "stop" : 1724924093731,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "5" ]
+      } ],
+      "uid" : "01cab1efeed4fe24c4fcd33d8263b848"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[6]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[6]",
+        "uid" : "7e2468579437dabe",
+        "parentUid" : "b1b227d57d60a74786da1395e9ed74ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093732,
+          "stop" : 1724924093732,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "6" ]
+      } ],
+      "uid" : "b1b227d57d60a74786da1395e9ed74ea"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[7]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[7]",
+        "uid" : "aeedf9e0e82e2d00",
+        "parentUid" : "bb7aae53ebb472a71ce856deb76d0e5f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093733,
+          "stop" : 1724924093733,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "7" ]
+      } ],
+      "uid" : "bb7aae53ebb472a71ce856deb76d0e5f"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[8]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[8]",
+        "uid" : "e07155320ce6acb8",
+        "parentUid" : "9cd97938faab99de9bf76e09a53457fc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093734,
+          "stop" : 1724924093734,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "8" ]
+      } ],
+      "uid" : "9cd97938faab99de9bf76e09a53457fc"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('dog_api', <FixtureRequest for <Function test_get_few_sub_breed_random_images[9]>>)",
+      "children" : [ {
+        "name" : "test_get_few_sub_breed_random_images[9]",
+        "uid" : "ae10bfa2c5662836",
+        "parentUid" : "120d912368e2955db36028f4ee918017",
+        "status" : "broken",
+        "time" : {
+          "start" : 1724924093735,
+          "stop" : 1724924093735,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "9" ]
+      } ],
+      "uid" : "120d912368e2955db36028f4ee918017"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

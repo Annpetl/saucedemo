@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Annpetl.github.io/saucedemo",
+  "buildOrder" : 10,
+  "buildName" : "GitHub Actions Run #10612521514",
+  "buildUrl" : "https://github.com/Annpetl/saucedemo/actions/runs/10612521514",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Annpetl.github.io/saucedemo/10/"
+} ]
