@@ -28,7 +28,6 @@ def test_get_random_breed_image(dog_api, breed):
     assert breed in response['message'], f'нет ссылки на изображение с указанной породой, ответ {response}'
 
 
-#  fgh
 
 
 @allure.feature('List of dog images')
