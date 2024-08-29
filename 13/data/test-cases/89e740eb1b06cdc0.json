@@ -1,0 +1,108 @@
+{
+  "uid" : "89e740eb1b06cdc0",
+  "name" : "test_get_random_breed_image[basset]",
+  "fullName" : "test_dog_api#test_get_random_breed_image",
+  "historyId" : "35dc285b2c5748c1dbc9c4e40f3e49a1",
+  "time" : {
+    "start" : 1724926968681,
+    "stop" : 1724926968841,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "dog_api",
+    "time" : {
+      "start" : 1724926968681,
+      "stop" : 1724926968681,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET request to: https://dog.ceo/api/breed/hound/basset/images/random",
+      "time" : {
+        "start" : 1724926968681,
+        "stop" : 1724926968840,
+        "duration" : 159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Запрос отправлен. Десериализируем ответ из json в словарь.",
+      "time" : {
+        "start" : 1724926968840,
+        "stop" : 1724926968840,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az883-33"
+  }, {
+    "name" : "thread",
+    "value" : "2213-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "breed",
+    "value" : "'basset'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89e740eb1b06cdc0.json",
+  "parameterValues" : [ "'basset'" ]
+}

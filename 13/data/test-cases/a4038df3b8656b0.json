@@ -1,0 +1,99 @@
+{
+  "uid" : "a4038df3b8656b0",
+  "name" : "test_get_breed_images[.md]",
+  "fullName" : "test_dog_api#test_get_breed_images",
+  "historyId" : "50d665a0af8d3161687f3244c28c7baf",
+  "time" : {
+    "start" : 1724926970088,
+    "stop" : 1724926970334,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "dog_api",
+    "time" : {
+      "start" : 1724926970088,
+      "stop" : 1724926970088,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET request to: https://dog.ceo/api/breed/hound/images",
+      "time" : {
+        "start" : 1724926970088,
+        "stop" : 1724926970333,
+        "duration" : 245
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Список всех фото собак списком содержит только изображения"
+  }, {
+    "name" : "feature",
+    "value" : "List of dog images"
+  }, {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az883-33"
+  }, {
+    "name" : "thread",
+    "value" : "2213-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "file",
+    "value" : "'.md'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4038df3b8656b0.json",
+  "parameterValues" : [ "'.md'" ]
+}

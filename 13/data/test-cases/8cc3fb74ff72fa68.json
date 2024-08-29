@@ -1,0 +1,99 @@
+{
+  "uid" : "8cc3fb74ff72fa68",
+  "name" : "test_get_random_breed_images[shiba]",
+  "fullName" : "test_dog_api#test_get_random_breed_images",
+  "historyId" : "24245f08fa60be01d7ce41a2d094639f",
+  "time" : {
+    "start" : 1724926972801,
+    "stop" : 1724926973169,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "dog_api",
+    "time" : {
+      "start" : 1724926972801,
+      "stop" : 1724926972801,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET request to: https://dog.ceo/api/breed/shiba/images/",
+      "time" : {
+        "start" : 1724926972801,
+        "stop" : 1724926973168,
+        "duration" : 367
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "List of dog images"
+  }, {
+    "name" : "story",
+    "value" : "Список фото определенных пород"
+  }, {
+    "name" : "suite",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "host",
+    "value" : "fv-az883-33"
+  }, {
+    "name" : "thread",
+    "value" : "2213-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_dog_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "breed",
+    "value" : "'shiba'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cc3fb74ff72fa68.json",
+  "parameterValues" : [ "'shiba'" ]
+}

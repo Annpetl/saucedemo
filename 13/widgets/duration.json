@@ -1,0 +1,291 @@
+[ {
+  "uid" : "f019f00959ab134d",
+  "name" : "test_get_random_breed_images[entlebucher]",
+  "time" : {
+    "start" : 1724926971843,
+    "stop" : 1724926972324,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "251248c65c9586ba",
+  "name" : "test_get_random_breed_image[plott]",
+  "time" : {
+    "start" : 1724926969588,
+    "stop" : 1724926969833,
+    "duration" : 245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11c5e5d4cf333c62",
+  "name" : "test_get_few_sub_breed_random_images[6]",
+  "time" : {
+    "start" : 1724926975445,
+    "stop" : 1724926975697,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29acb9832f3158f5",
+  "name" : "test_get_random_breed_image[walker]",
+  "time" : {
+    "start" : 1724926969835,
+    "stop" : 1724926970086,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4038df3b8656b0",
+  "name" : "test_get_breed_images[.md]",
+  "time" : {
+    "start" : 1724926970088,
+    "stop" : 1724926970334,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d82653b56589e1b2",
+  "name" : "test_get_few_sub_breed_random_images[4]",
+  "time" : {
+    "start" : 1724926974949,
+    "stop" : 1724926975198,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9596f04a4d14d15",
+  "name" : "test_get_random_breed_image[ibizan]",
+  "time" : {
+    "start" : 1724926969336,
+    "stop" : 1724926969586,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "397be829956d5a53",
+  "name" : "test_get_few_sub_breed_random_images[9]",
+  "time" : {
+    "start" : 1724926976204,
+    "stop" : 1724926976356,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "406edffb47c9b0a",
+  "name" : "test_get_random_breed_image[blood]",
+  "time" : {
+    "start" : 1724926968842,
+    "stop" : 1724926969085,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a04f5681c55ef9c9",
+  "name" : "test_get_random_breed_image[english]",
+  "time" : {
+    "start" : 1724926969087,
+    "stop" : 1724926969334,
+    "duration" : 247
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a438901be0c038d2",
+  "name" : "test_get_random_breed_images[spaniel]",
+  "time" : {
+    "start" : 1724926973550,
+    "stop" : 1724926973935,
+    "duration" : 385
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e853cfd5356ea561",
+  "name" : "test_get_random_breed_images[african]",
+  "time" : {
+    "start" : 1724926971069,
+    "stop" : 1724926971553,
+    "duration" : 484
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d13366e146475f4",
+  "name" : "test_get_breed_images[.exe]",
+  "time" : {
+    "start" : 1724926970580,
+    "stop" : 1724926970816,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89e740eb1b06cdc0",
+  "name" : "test_get_random_breed_image[basset]",
+  "time" : {
+    "start" : 1724926968681,
+    "stop" : 1724926968841,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53e521dff3e65828",
+  "name" : "test_get_few_sub_breed_random_images[3]",
+  "time" : {
+    "start" : 1724926974710,
+    "stop" : 1724926974947,
+    "duration" : 237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53c792e8cd8e6943",
+  "name" : "test_get_random_breed_images[dvornyaga]",
+  "time" : {
+    "start" : 1724926973937,
+    "stop" : 1724926974305,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92f89e35695f2761",
+  "name" : "test_get_few_sub_breed_random_images[2]",
+  "time" : {
+    "start" : 1724926974553,
+    "stop" : 1724926974708,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e32379914ecb0db2",
+  "name" : "test_random_dog",
+  "time" : {
+    "start" : 1724926967928,
+    "stop" : 1724926968431,
+    "duration" : 503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c42f910a9788624",
+  "name" : "test_get_random_breed_image[afghan]",
+  "time" : {
+    "start" : 1724926968432,
+    "stop" : 1724926968679,
+    "duration" : 247
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d524c896d67ee00a",
+  "name" : "test_get_few_sub_breed_random_images[7]",
+  "time" : {
+    "start" : 1724926975699,
+    "stop" : 1724926975950,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd4b7adcd1ba2567",
+  "name" : "test_get_breed_images[.txt]",
+  "time" : {
+    "start" : 1724926970818,
+    "stop" : 1724926971068,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a2b99eaf276d4ff",
+  "name" : "test_get_few_sub_breed_random_images[5]",
+  "time" : {
+    "start" : 1724926975200,
+    "stop" : 1724926975443,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20041a2b73ee332c",
+  "name" : "test_get_random_breed_images[whippet]",
+  "time" : {
+    "start" : 1724926973171,
+    "stop" : 1724926973549,
+    "duration" : 378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58c98acd2f47fad7",
+  "name" : "test_get_random_breed_images[boxer]",
+  "time" : {
+    "start" : 1724926971555,
+    "stop" : 1724926971841,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c63043ee62b83a1",
+  "name" : "test_get_breed_images[.MD]",
+  "time" : {
+    "start" : 1724926970335,
+    "stop" : 1724926970579,
+    "duration" : 244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff570bdc5eca051c",
+  "name" : "test_get_random_breed_images[elkhound]",
+  "time" : {
+    "start" : 1724926972325,
+    "stop" : 1724926972800,
+    "duration" : 475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cc3fb74ff72fa68",
+  "name" : "test_get_random_breed_images[shiba]",
+  "time" : {
+    "start" : 1724926972801,
+    "stop" : 1724926973169,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "548f557ec6fe78c8",
+  "name" : "test_get_few_sub_breed_random_images[8]",
+  "time" : {
+    "start" : 1724926975952,
+    "stop" : 1724926976203,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6587c8b033e194e9",
+  "name" : "test_get_few_sub_breed_random_images[1]",
+  "time" : {
+    "start" : 1724926974307,
+    "stop" : 1724926974551,
+    "duration" : 244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
